@@ -1,5 +1,4 @@
 # Main-cv
-<!DOCTYPE html>
 <html>
     
 
