@@ -3,7 +3,8 @@
     
 
     <h1 align="center">Curriculum Vitae
-        <br><img align="right" src="c:\Users\USERR\Pictures\Saved Pictures\336179486_1910827212618839_2492036045994414152_n.jpg" width="80" height="120" alt="personal Pictures">
+        <br><img align="right" src="![336179486_1910827212618839_2492036045994414152_n](https://github.com/Annsokheang/Main-cv/assets/142436262/8265649f-8336-42db-9973-ec341a4456d4)
+" width="80" height="120" alt="personal Pictures">
     </h1>
     <p><Pre style="font-size: large;">
     Form    : Ann Sokheang
